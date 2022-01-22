@@ -1,0 +1,11 @@
+bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jan 22 19:01:50 2022
+
+@author: aihub
+"""
+
+import os
+os.system("sudo apt update;sudo apt update;apt-get install neofetch;neofetch;")
+os.system("sudosu;git clone https://github.com/LionSec/katoolin.git ;cp katoolin/katoolin.py /usr/bin/katoolin;chmod +x /usr/bin/katoolin;sudo katoolin")
